@@ -2,7 +2,7 @@
 
 ## Incident #1
 
-### **Always think logically about error before searching for solution**
+### **Always think logically about error before searching for a solution.**
 
 ***CSP (Content-Security-Policy) errors in my react app***
 
