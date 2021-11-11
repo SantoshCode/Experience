@@ -19,3 +19,5 @@ So Below were my thoughts.
 4. And then there I found `nginx` was blocking every scripts. `nginx.conf` had a default `add_header Content-Security-Policy`.
 
 5. So everytime even if I correctly managed `CSP` in my `index.html` `nginx` was doing opposite of it.
+
+So at last I patched everything in my `nginx.conf` file and everything worked smoothly 🙂.
